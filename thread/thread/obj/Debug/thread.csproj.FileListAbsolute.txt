@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\thread\thread\bin\Debug\thread.exe.config
+C:\Users\Dell\source\repos\thread\thread\bin\Debug\thread.exe
+C:\Users\Dell\source\repos\thread\thread\bin\Debug\thread.pdb
+C:\Users\Dell\source\repos\thread\thread\obj\Debug\thread.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\thread\thread\obj\Debug\thread.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\thread\thread\obj\Debug\thread.exe
+C:\Users\Dell\source\repos\thread\thread\obj\Debug\thread.pdb
+C:\Users\Dell\source\repos\thread\thread\bin\Debug\GlobalValidation.dll
+C:\Users\Dell\source\repos\thread\thread\bin\Debug\GlobalValidation.pdb
+C:\Users\Dell\source\repos\thread\thread\obj\Debug\thread.csproj.Up2Date
